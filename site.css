@@ -14,12 +14,36 @@ body {
 
 #main {
 	padding: 5px;
+	padding-top: 75px;
 	padding-left: 15px;
 	padding-right: 15px;
 	background-color: #F36E21;
 	border-radius: 0 0 5px 5px;
 }
 
+#aboutUs{
+	padding-top: 75px;
+}
+
+#aboutSled{
+	padding-top: 75px;
+}
+
+#aboutComp{
+	padding-top: 75px;
+}
+
+#spons{
+	padding-top: 75px;
+}
+
+#con{
+	padding-top: 75px;
+}
+
+#pic {
+	padding-left: 200px;
+}
 h1 {
 	font-family: Georgia, serif;
 	border-bottom: 3px solid #FFFFFF;
