@@ -17,8 +17,12 @@ body {
 	padding-top: 75px;
 	padding-left: 15px;
 	padding-right: 15px;
-	background-color: #F36E21;
+	background-color: #9E3B00;
 	border-radius: 0 0 5px 5px;
+}
+
+.container {
+		background-color: #9E3B00
 }
 
 #aboutUs{
@@ -44,6 +48,17 @@ body {
 #pic {
 	padding-left: 200px;
 }
+
+.raisedbox { 
+	padding: 10px;
+    border: 1px solid #9E3B00;
+	box-shadow:  -1px 1px #9E3B00,
+		 -2px 2px #9E3B00,
+		 -3px 3px #9E3B00,
+		 -4px 4px #9E3B00,
+		 -5px 5px #9E3B00;
+}
+
 h1 {
 	font-family: Georgia, serif;
 	border-bottom: 3px solid #FFFFFF;
