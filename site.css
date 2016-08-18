@@ -21,6 +21,7 @@ body {
 	padding-right: 15px;
 	background-color: #F05A28;
 	border-radius: 0 0 5px 5px;
+	padding-bottom: 0px;
 }
 
 .container {
@@ -71,9 +72,13 @@ body {
 
 .about {
 	width:1280px;
-	height:720px
+	height:720px;
 }
 
+#about {
+	width:2500px;
+	height:300px;
+}
 .navbar-brand{
 	padding-top:0px;
 	border-top-width:0px;
@@ -89,6 +94,7 @@ h1 {
 
 table {
 	width:100%;
+	padding-top:0px;
 }
 
 table, th , td {
