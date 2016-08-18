@@ -11,7 +11,7 @@ body {
 	background-color: #000000;
 	border-color: #000000;
 	border-top-width: 10px;
-	border-bottom-width: 0px;
+	border-bottom-width: 10px;
 }
 
 #main {
@@ -73,6 +73,12 @@ body {
 	width:1280px;
 	height:720px
 }
+
+.navbar-brand{
+	padding-top:0px;
+	border-top-width:0px;
+}
+
 h1 {
 	font-family: Georgia, serif;
 	border-bottom: 3px solid #FFFFFF;
@@ -114,6 +120,8 @@ ul#menu li {
 	display: inline;
 	margin-right: 3px;
 }
+
+
 
 ul#menu li a {
 	background-color: #000000;
